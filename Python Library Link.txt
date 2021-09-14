@@ -1,6 +1,6 @@
 1) just open this link and download the python library zip file
 
-	(https://drive.google.com/drive/folders/1on6HwirHBRDTLhL6GyaWOTEZx1Nt3BPp?usp=sharing)
+	(https://drive.google.com/drive/folders/1on6HwirHBRDTLhL6GyaWOTEZx1Nt3BPp?usp=sharing) <------ Link
 
 2) Once get download the zip file then extract it.
 3) Extracted folder cut/copy and paste inside your directory
