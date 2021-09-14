@@ -1,0 +1,11 @@
+1) just open this link and download the python library zip file
+
+	(https://drive.google.com/drive/folders/1on6HwirHBRDTLhL6GyaWOTEZx1Nt3BPp?usp=sharing)
+
+2) Once get download the zip file then extract it.
+3) Extracted folder cut/copy and paste inside your directory
+	in my case my system directory is - (C:\Users\Shubham\AppData\Roaming\......)
+	you have to go find your system user directory as I mentioned above directory
+4) paste the 'python37' folder inside the Roaming folder
+
+5) give the path of script and site packages folder to your System Enviroment Variable
